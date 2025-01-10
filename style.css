@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    position: fixed;
+    border-bottom: 0.6px solid gray;
+    align-items: center;
+    margin: auto;
+    align-items: center;
+    background-color: black;
+}
+#logo{
+    margin-left: 0;
+    display: inline;
+    margin-top: 3px;
+    height: 15px;
+    width: 20px;
+}
+#logo:hover{
+    border: 0.25px dotted rgba(36, 98, 126, 59);
+}
+a{
+    margin-left:120px ;
+    color: white;
+    font-size: 8.5px;
+    text-decoration: none;
+}
+input{
+    font-size: 5px;
+    margin-left: 30px;
+    size: 20px;
+    width: 60px;
+    height: 12px;
+}
+select{
+    background-color: azure;
+    width: 45px;
+    height: 12px;
+    font-size: 6px;
+}
+img{
+    margin-top: 30px;
+}
+#Aimg{
+    width: 130px;
+    
+}
+#AAbox{
+    text-align: center;
+    width: 800px;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 30px;
+   
+   
+    color: white;
+    outline-color: gray;
+    outline-offset: 0.6px;
+    outline-style: solid;
+}
+#hed{
+    
+    
+    margin-bottom: 1500px;
+    align-items: center;
+    display: inline;
+}
+address{
+    text-align: center
+}
+#AAbox:hover{
+    border-radius: 10px;
+    opacity: 0.6;
+    border: 0.6px solid yellow;
+}
+a:hover{
+    color: yellow;
+}
+#ii{
+    margin-left: 310px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+#ii:hover{
+    border-radius: 10px;
+    border: 2px double gainsboro;
+    opacity: 0.5;
+}
